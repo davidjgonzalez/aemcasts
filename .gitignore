@@ -26,6 +26,11 @@
 .idea/
 *.iml
 
+# Vlt #
+############
+.vlt
+.vltignore
+
 # Logs and databases #
 ######################
 *.log
