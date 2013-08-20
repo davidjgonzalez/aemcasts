@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>AEM Casts Demo Project Package</comment>
+<entry key="createdBy">aemcasts</entry>
+<entry key="name">aemcasts-demo-content</entry>
+<entry key="created">2013-08-16T16:32:48.126-0400</entry>
+<entry key="groupId">com.adobe.aemcasts</entry>
+<entry key="version">1.0-SNAPSHOT</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">AEM Casts</entry>
+<entry key="description">Maven Multimodule project for AEM Casts Demo Project.</entry>
+<entry key="artifactId">aemcasts-demo-content</entry>
+<entry key="path">/etc/packages/AEM Casts/aemcasts-demo-content.zip</entry>
+</properties>
