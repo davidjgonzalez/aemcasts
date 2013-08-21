@@ -1,4 +1,2 @@
-com/adobe/aemcasts/demo/impl/HelloServiceImpl.class
-com/adobe/aemcasts/demo/HelloService.class
 com/adobe/aemcasts/demo/package-info.class
-com/adobe/aemcasts/demo/impl/filters/LoggingFilter.class
+com/adobe/aemcasts/demo/HelloService.class
