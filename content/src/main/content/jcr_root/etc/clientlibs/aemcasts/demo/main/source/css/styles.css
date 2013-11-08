@@ -1,3 +1,43 @@
 body {
-    background-color: red;
+  color: #333;
+}
+
+h1 {
+  font-size: 3em;
+}
+
+.header {
+  padding: 2em 0 1em 0;
+}
+
+.header .logo {
+  color: #0756A4;
+  font-size: 3em;
+}
+
+.header .nav {
+  text-align: right;
+  margin-top: 2em;
+}
+
+.header .nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0 2em 1em 0;
+}
+
+.header .nav li {
+  display: inline;
+}
+
+.sidebar {
+  padding-top: 2em;
+}
+
+.sidebar p {
+  color: #666;
+}
+
+.footer {
+  margin-bottom: 2em;
 }

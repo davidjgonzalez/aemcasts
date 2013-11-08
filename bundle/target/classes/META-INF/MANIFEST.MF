@@ -1,6 +1,6 @@
 Manifest-Version: 1.0
-Bnd-LastModified: 1377043325673
-Build-Jdk: 1.6.0_51
+Bnd-LastModified: 1383947824717
+Build-Jdk: 1.6.0_65
 Built-By: aemcasts
 Bundle-Description: Maven Multimodule project for AEM Casts Demo Project
  .
