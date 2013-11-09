@@ -1,11 +1,9 @@
 <%@include file="/apps/aemcasts/demo/global/global.jsp"%><%
-%><%@page session="false" import="com.adobe.granite.xss.XSSAPI"%>
-
-<body>
+%><%@page session="false"%><%
+%><body>
     <div class="container_12">
         <header class="header clearfix">
             <div class="grid_4 logo">AEM Casts</div>
-
             <div class="grid_8 nav">
                 <ul>
                     <li><a href="#">Home</a></li>
@@ -18,7 +16,7 @@
         <hr/>
 
         <div class="page-content">
-            <cq:include script="main.jsp"/>
+           <cq:include script="main.jsp"/>
         </div>
 
         <hr/>

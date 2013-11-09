@@ -15,5 +15,6 @@
     <meta name="description" content="<%= xss.encodeForHTML(pageDescription) %>">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <cq:includeClientLib css="aemcasts.demo.all"/>
+    <cq:include script="headlibs.jsp"/>
+    <cq:include script="/libs/wcm/core/components/init/init.jsp"/>
 </head>

@@ -1,52 +1,52 @@
 body {
-    color: #333;
+  color: #333;
 }
 
 h1 {
-    font-size: 3em;
+  font-size: 3em;
 }
 
 .header {
-    padding: 2em 0 1em 0;
+  padding: 2em 0 1em 0;
 }
 
 .header .logo {
-    color: #0756A4;
-    font-size: 3em;
+  color: #0756A4;
+  font-size: 3em;
 }
 
 .header .nav {
-    text-align: right;
-    margin-top: 2em;
+  text-align: right;
+  margin-top: 2em;
 }
 
 .header .nav ul {
-    list-style: none;
-    margin: 0;
-    padding: 0 2em 1em 0;
+  list-style: none;
+  margin: 0;
+  padding: 0 2em 1em 0;
 }
 
 .header .nav li {
-    display: inline;
+  display: inline;
 }
 
 .promo {
-    color: #fff;
-    font-size: 3em;
-    text-align: center;
-    background-color: #0756A4;
-    padding: 2em 0;
-    margin-bottom: 1em
+  color: #fff;
+  font-size: 3em;
+  text-align: center;
+  background-color: #0756A4;
+  padding: 2em 0;
+  margin-bottom: 1em
 }
 
 .sidebar {
-    padding-top: 2em;
+  padding-top: 2em;
 }
 
 .sidebar p {
-    color: #666;
+  color: #666;
 }
 
 .footer {
-    margin-bottom: 2em;
+  margin-bottom: 2em;
 }
