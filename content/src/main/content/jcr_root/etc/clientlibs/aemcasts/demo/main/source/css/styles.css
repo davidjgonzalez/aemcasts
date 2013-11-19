@@ -50,3 +50,26 @@ h1 {
 .footer {
   margin-bottom: 2em;
 }
+
+/* Components */
+
+/* Q/A */
+.q-and-a {
+    margin-bottom: 2em;
+}
+
+.q-and-a .question,
+.q-and-a .answer {
+    padding: .5em 1em;
+}
+
+.q-and-a .question {
+    display: block;
+    background-color: #eee;
+}
+
+.q-and-a .answer {
+    background-color: #f7f7f7;
+    border: solid 1px #eee;
+    padding: 1.5em 1em;
+}
