@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+          jcr:primaryType="cq:Dialog"
+          activeTab="0"
+          title="Question and Answer"
+          xtype="tabpanel">
+    <items jcr:primaryType="cq:WidgetCollection">
+        <tab1
+                jcr:primaryType="cq:Widget"
+                title="QnA"
+                xtype="panel">
+            <items jcr:primaryType="cq:WidgetCollection">
+                <question jcr:primaryType="cq:Widget"
+                          fieldLabel = "Question"
+                          name="./question"
+                          xtype="textfield"/>
+                <answer jcr:primaryType="cq:Widget"
+                          fieldLabel = "Answer"
+                          name="./answer"
+                          xtype="textarea"/>
+                <see-more jcr:primaryType="cq:Widget"
+                        fieldLabel = "See More"
+                        name="./seeMorePath"
+                        xtype="pathfield"/>
+            </items>
+        </tab1>
+    </items>
+</jcr:root>
